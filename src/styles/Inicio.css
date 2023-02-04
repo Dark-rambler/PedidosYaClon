@@ -38,4 +38,9 @@
         padding-left: 0%;
         width: 98%;
     }
+    .imagen{
+        width: 75px;
+        margin: 3px;
+        background-color: white;
+    }
 }

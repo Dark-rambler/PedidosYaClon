@@ -21,7 +21,7 @@ function Inicio(){
             <h5 className="my-3 ps-4 ">
                 Los mejores restaurantes
             </h5>
-            <section className="mb-md-5 mb-4 ">
+            <section className="mb-md-5 mb-4 ms-3 ms-md-1 ">
                 <img src="https://img.pystatic.com/home-chains/bo/subway.png?quality=70&width=200" className="imagen" alt="" />
                 <img src="https://img.pystatic.com/home-chains/bo/kfc.png?quality=70&width=200" className="imagen"  alt="" />
                 <img src="https://img.pystatic.com/home-chains/bo/cinnabon_logo.png?quality=70&width=200"  className="imagen" alt="" />
