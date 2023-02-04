@@ -51,7 +51,7 @@ function Inicio(){
                             Top Comidas
                         </h5>
                         <p>
-                            Hamburguesas, Pizza, Acaí, Pollos, Carnes, Sándwiches
+                            Hamburguesas, Pizzas, Acaí, Pollos, Carnes, Sándwiches
                         </p>
                     </div>
                 </div>
