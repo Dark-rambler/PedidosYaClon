@@ -1,0 +1,41 @@
+.principal{
+    background-color: rgb(249, 246, 244);
+
+}
+.fondo{
+    background-image: url(https://images.deliveryhero.io/image/pedidosya/home-backgrounds/home-background-others.jpg?quality=100&width=1345);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 85vh; 
+    margin-top: 60px;   
+    color: white;
+}
+.imagen{
+    width: 80px;
+    margin: 4px;
+    background-color: white;
+}
+.seccion2{
+    padding-left: 8vw;
+    width: 75%;
+}
+.barra{
+    width: 58vw;
+}
+@media (max-width: 1024px)  {
+
+    .fondo{
+        background-image: none; 
+        color: black;
+        height:30vh ;
+    }
+    .barra{
+        width: 90vw;
+        
+    }
+    .seccion2{
+        padding-left: 0%;
+        width: 98%;
+    }
+}
